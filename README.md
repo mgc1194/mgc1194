@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgc1194
 - 👀 I’m interested in data analysis visialization
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on fMRI Research, APP Developement or Data analysis
+- 🌱 I’m currently learning front end development
+- 💞️ I’m looking to collaborate on fMRI Research, APP Development or Data analysis
 - 📫 How to reach me: email me to magico.mgc@hotmail.es
 
 <!---
